@@ -1,6 +1,6 @@
 {
   "name": "kikker",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "description": "a web framework base koa2",
   "main": "index.js",
   "scripts": {
