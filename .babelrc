@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": 4.0
+        },
+        "exclude": [
+          "transform-es2015-classes"
+        ]
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-decorators-legacy"
+  ]
+}
